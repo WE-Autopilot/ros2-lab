@@ -1,0 +1,1 @@
+OA completed to help us understand ROS2. For Part D, I implemented a direction_publisher node that generates a new angular velocity for the turtle and publishes it every 2 seconds. I also created a pose_colour_subscriber node that pays attention to the turtle's position and based on its location within the 4 quadrants of the screen, changes the turtles pen colour.
