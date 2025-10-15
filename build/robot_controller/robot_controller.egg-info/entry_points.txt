@@ -1,0 +1,7 @@
+[console_scripts]
+circle_publisher = robot_controller.circle_publisher:main
+hello_node = robot_controller.hello_node:main
+initial_spawn = robot_controller.initializeSpawn:main
+pose_subscriber = robot_controller.pose_subscriber:main
+random_movement = robot_controller.randomMovement:main
+stopper = robot_controller.stopper:main

@@ -1,0 +1,116 @@
+[0.000000] (-) TimerEvent: {}
+[0.000000] (robot_controller) JobQueued: {'identifier': 'robot_controller', 'dependencies': OrderedDict()}
+[0.000000] (robot_controller) JobStarted: {'identifier': 'robot_controller'}
+[0.110000] (-) TimerEvent: {}
+[0.235000] (-) TimerEvent: {}
+[0.344000] (-) TimerEvent: {}
+[0.453000] (-) TimerEvent: {}
+[0.563000] (-) TimerEvent: {}
+[0.672000] (-) TimerEvent: {}
+[0.782000] (-) TimerEvent: {}
+[0.891000] (-) TimerEvent: {}
+[1.000000] (-) TimerEvent: {}
+[1.110000] (-) TimerEvent: {}
+[1.219000] (-) TimerEvent: {}
+[1.328000] (-) TimerEvent: {}
+[1.438000] (-) TimerEvent: {}
+[1.547000] (-) TimerEvent: {}
+[1.657000] (-) TimerEvent: {}
+[1.766000] (-) TimerEvent: {}
+[1.875000] (-) TimerEvent: {}
+[1.985000] (-) TimerEvent: {}
+[2.094000] (-) TimerEvent: {}
+[2.203000] (-) TimerEvent: {}
+[2.313000] (-) TimerEvent: {}
+[2.422000] (-) TimerEvent: {}
+[2.547000] (-) TimerEvent: {}
+[2.672000] (-) TimerEvent: {}
+[2.782000] (-) TimerEvent: {}
+[2.891000] (-) TimerEvent: {}
+[3.016000] (-) TimerEvent: {}
+[3.141000] (-) TimerEvent: {}
+[3.266000] (-) TimerEvent: {}
+[3.391000] (-) TimerEvent: {}
+[3.500000] (-) TimerEvent: {}
+[3.610000] (-) TimerEvent: {}
+[3.719000] (-) TimerEvent: {}
+[3.828000] (-) TimerEvent: {}
+[3.938000] (-) TimerEvent: {}
+[4.047000] (-) TimerEvent: {}
+[4.157000] (-) TimerEvent: {}
+[4.266000] (-) TimerEvent: {}
+[4.375000] (-) TimerEvent: {}
+[4.485000] (-) TimerEvent: {}
+[4.594000] (-) TimerEvent: {}
+[4.703000] (-) TimerEvent: {}
+[4.813000] (-) TimerEvent: {}
+[4.922000] (-) TimerEvent: {}
+[5.032000] (-) TimerEvent: {}
+[5.141000] (-) TimerEvent: {}
+[5.250000] (-) TimerEvent: {}
+[5.360000] (-) TimerEvent: {}
+[5.375000] (robot_controller) Command: {'cmd': ['C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\python.exe', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '..\\..\\build\\robot_controller', 'build', '--build-base', 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\build\\robot_controller\\build', 'install', '--record', 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\build\\robot_controller\\install.log', '--single-version-externally-managed', 'install_data'], 'cwd': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\src\\robot_controller', 'env': {'ALLUSERSPROFILE': 'C:\\ProgramData', 'AMENT_PREFIX_PATH': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\robot_controller;C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library', 'ament_python_executable': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\python.exe', 'APPDATA': 'C:\\Users\\willi\\AppData\\Roaming', 'CLion': 'C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin;', 'COLCON': '1', 'COLCON_PREFIX_PATH': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\', 'CommonProgramFiles': 'C:\\Program Files\\Common Files', 'CommonProgramFiles(x86)': 'C:\\Program Files (x86)\\Common Files', 'CommonProgramW6432': 'C:\\Program Files\\Common Files', 'COMPUTERNAME': 'WILLIE-COMPUTER', 'ComSpec': 'C:\\WINDOWS\\system32\\cmd.exe', 'CONDA_DEFAULT_ENV': 'ros2_first_project', 'CONDA_PREFIX': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default', 'CONDA_SHLVL': '1', 'DriverData': 'C:\\Windows\\System32\\Drivers\\DriverData', 'EFC_27128_1592913036': '1', 'GDAL_DATA': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library\\share\\gdal', 'GDAL_DRIVER_PATH': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library\\lib\\gdalplugins', 'GEM_HOME': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\share\\rubygems', 'GZ_SIM_RESOURCE_PATH': 'C:/Users/willi/ros_projects/ros2_first_project/.pixi/envs/default/Library/share', 'HOMEDRIVE': 'C:', 'HOMEPATH': '\\Users\\willi', 'IGCCSVC_DB': 'AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFDrKvTlmYEaeBqGagiP1igQAAAACAAAAAAAQZgAAAAEAACAAAAC+g6LWNAxqYPIhx+0tStvSfvG8KiPTTeyujGSdnvIhsQAAAAAOgAAAAAIAACAAAADiAG+USZ6xo7+jY05kVN/8mxe9m5pcoVJ02PioRa8hYWAAAAAzN6hnr0yz88R62uOxVKs7JDmItBLkQQY8R1qP9ON5q/O0aTvrkb5ukJEZ3MODw1/n7MGTICMMTW3jPtPCxq1b+zv2iZn8fdlSrtWGiLnWDqpCHybLStYQTzJw2ojNUsxAAAAAUw4dhhWhAMWoYVugqIzeJRccTffoxqOlObMS0JK6SscsqbKlQXeK/25kASmlwSvzBy7G9oSjXFXyEXr1GSX0QQ==\nIntelliJ IDEA=C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.2.1\\bin;', 'JAVA_HOME': 'C:\\Program Files\\Java\\jdk-24', 'LOCALAPPDATA': 'C:\\Users\\willi\\AppData\\Local', 'LOGONSERVER': '\\\\WILLIE-COMPUTER', 'NUMBER_OF_PROCESSORS': '12', 'OGRE2_RESOURCE_PATH': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library\\bin\\OGRE-Next', 'OGRE_RESOURCE_PATH': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library\\bin', 'OneDrive': 'C:\\Users\\willi\\OneDrive', 'OneDriveConsumer': 'C:\\Users\\willi\\OneDrive', 'OS': 'Windows_NT', 'Path': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\share\\rubygems\\bin;C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library\\opt/rviz_ogre_vendor/lib;C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library\\opt/rviz_ogre_vendor/bin;C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library\\bin;C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default;C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library/mingw-w64/bin;C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library/usr/bin;C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library/bin;C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Scripts;C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\bin;C:\\Program Files\\Java\\jdk-24\\bin;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\PuTTY\\;C:\\Program Files\\Git\\cmd;C:\\Users\\willi\\.pixi\\bin;C:\\Users\\willi\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.2.1\\bin;;C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin;;C:\\Users\\willi\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\MinGW\\bin;C:\\msys64\\ucrt64\\bin;C:\\Users\\willi\\AppData\\Roaming\\TinyTeX\\bin\\windows;', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'PIXI_ENVIRONMENT_NAME': 'default', 'PIXI_ENVIRONMENT_PLATFORMS': 'win-64', 'PIXI_EXE': 'C:\\Users\\willi\\.pixi\\bin\\pixi.exe', 'PIXI_IN_SHELL': '1', 'PIXI_PROJECT_MANIFEST': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\pixi.toml', 'PIXI_PROJECT_NAME': 'ros2_first_project', 'PIXI_PROJECT_ROOT': 'C:\\Users\\willi\\ros_projects\\ros2_first_project', 'PIXI_PROJECT_VERSION': '0.1.0', 'PIXI_PROMPT': '(ros2_first_project)', 'PKG_CONFIG_PATH': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library\\lib\\pkgconfig;', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 186 Stepping 3, GenuineIntel', 'PROCESSOR_LEVEL': '6', 'PROCESSOR_REVISION': 'ba03', 'ProgramData': 'C:\\ProgramData', 'ProgramFiles': 'C:\\Program Files', 'ProgramFiles(x86)': 'C:\\Program Files (x86)', 'ProgramW6432': 'C:\\Program Files', 'PROJ_DATA': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library\\share\\proj', 'PROJ_NETWORK': 'ON', 'PROMPT': '(ros2_first_project) $P$G', 'PSModulePath': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'PUBLIC': 'C:\\Users\\Public', 'PYTHONPATH': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\build\\robot_controller\\prefix_override;C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Lib\\site-packages\\colcon_core\\task\\python\\colcon_distutils_commands;C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\robot_controller\\Lib\\site-packages;C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\robot_controller\\Lib\\site-packages;C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library\\lib/site-packages;C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library\\..\\Lib\\site-packages', 'QT_PLUGIN_PATH': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library\\plugins', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'ROS_DISTRO': 'jazzy', 'ROS_ETC_DIR': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library\\etc\\ros', 'ROS_OS_OVERRIDE': 'conda:win64', 'ROS_PYTHON_VERSION': '3', 'ROS_VERSION': '2', 'SDF_PATH': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library\\share\\sdformat13\\1.10', 'SESSIONNAME': 'Console', 'SSL_CERT_DIR': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library\\ssl\\certs', 'SSL_CERT_FILE': 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Library\\ssl\\cacert.pem', 'SystemDrive': 'C:', 'SystemRoot': 'C:\\WINDOWS', 'TEMP': 'C:\\Users\\willi\\AppData\\Local\\Temp', 'TMP': 'C:\\Users\\willi\\AppData\\Local\\Temp', 'USERDOMAIN': 'WILLIE-COMPUTER', 'USERDOMAIN_ROAMINGPROFILE': 'WILLIE-COMPUTER', 'USERNAME': 'willi', 'USERPROFILE': 'C:\\Users\\willi', 'VBOX_MSI_INSTALL_PATH': 'C:\\Program Files\\Oracle\\VirtualBox\\', 'windir': 'C:\\WINDOWS', 'XML_CATALOG_FILES': 'file:///C:/Users/willi/ros_projects/ros2_first_project/.pixi/envs/default/etc/xml/catalog', 'ZES_ENABLE_SYSMAN': '1', '__CONDA_OPENSSL_CERT_DIR_SET': '1', '__CONDA_OPENSSL_CERT_FILE_SET': '1'}, 'shell': False}
+[5.469000] (-) TimerEvent: {}
+[5.578000] (-) TimerEvent: {}
+[5.688000] (-) TimerEvent: {}
+[5.797000] (-) TimerEvent: {}
+[5.907000] (-) TimerEvent: {}
+[5.969000] (robot_controller) StderrLine: {'line': b"C:\\Users\\willi\\ros_projects\\ros2_first_project\\.pixi\\envs\\default\\Lib\\site-packages\\setuptools\\_distutils\\dist.py:289: UserWarning: Unknown distribution option: 'tests_require'\r\n"}
+[5.969000] (robot_controller) StderrLine: {'line': b'  warnings.warn(msg)\r\n'}
+[6.032000] (-) TimerEvent: {}
+[6.141000] (-) TimerEvent: {}
+[6.250000] (-) TimerEvent: {}
+[6.344000] (robot_controller) StdoutLine: {'line': b'running egg_info\r\n'}
+[6.360000] (-) TimerEvent: {}
+[6.391000] (robot_controller) StdoutLine: {'line': b'writing ..\\..\\build\\robot_controller\\robot_controller.egg-info\\PKG-INFO\r\n'}
+[6.422000] (robot_controller) StdoutLine: {'line': b'writing dependency_links to ..\\..\\build\\robot_controller\\robot_controller.egg-info\\dependency_links.txt\r\n'}
+[6.422000] (robot_controller) StdoutLine: {'line': b'writing entry points to ..\\..\\build\\robot_controller\\robot_controller.egg-info\\entry_points.txt\r\n'}
+[6.422000] (robot_controller) StdoutLine: {'line': b'writing requirements to ..\\..\\build\\robot_controller\\robot_controller.egg-info\\requires.txt\r\n'}
+[6.422000] (robot_controller) StdoutLine: {'line': b'writing top-level names to ..\\..\\build\\robot_controller\\robot_controller.egg-info\\top_level.txt\r\n'}
+[6.485000] (-) TimerEvent: {}
+[6.563000] (robot_controller) StdoutLine: {'line': b"reading manifest file '..\\..\\build\\robot_controller\\robot_controller.egg-info\\SOURCES.txt'\r\n"}
+[6.594000] (robot_controller) StdoutLine: {'line': b"writing manifest file '..\\..\\build\\robot_controller\\robot_controller.egg-info\\SOURCES.txt'\r\n"}
+[6.594000] (-) TimerEvent: {}
+[6.594000] (robot_controller) StdoutLine: {'line': b'running build\r\n'}
+[6.594000] (robot_controller) StdoutLine: {'line': b'running build_py\r\n'}
+[6.594000] (robot_controller) StdoutLine: {'line': b'copying robot_controller\\circle_publisher.py -> C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\build\\robot_controller\\build\\lib\\robot_controller\r\n'}
+[6.625000] (robot_controller) StdoutLine: {'line': b'copying robot_controller\\hello_node.py -> C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\build\\robot_controller\\build\\lib\\robot_controller\r\n'}
+[6.641000] (robot_controller) StdoutLine: {'line': b'copying robot_controller\\initializeSpawn.py -> C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\build\\robot_controller\\build\\lib\\robot_controller\r\n'}
+[6.657000] (robot_controller) StdoutLine: {'line': b'copying robot_controller\\pose_subscriber.py -> C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\build\\robot_controller\\build\\lib\\robot_controller\r\n'}
+[6.672000] (robot_controller) StdoutLine: {'line': b'copying robot_controller\\randomMovement.py -> C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\build\\robot_controller\\build\\lib\\robot_controller\r\n'}
+[6.703000] (robot_controller) StdoutLine: {'line': b'copying robot_controller\\stopper.py -> C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\build\\robot_controller\\build\\lib\\robot_controller\r\n'}
+[6.703000] (-) TimerEvent: {}
+[6.703000] (robot_controller) StdoutLine: {'line': b'copying robot_controller\\__init__.py -> C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\build\\robot_controller\\build\\lib\\robot_controller\r\n'}
+[6.703000] (robot_controller) StdoutLine: {'line': b'running install\r\n'}
+[6.703000] (robot_controller) StdoutLine: {'line': b'running install_lib\r\n'}
+[6.797000] (robot_controller) StdoutLine: {'line': b'running install_data\r\n'}
+[6.797000] (robot_controller) StdoutLine: {'line': b'copying resource\\robot_controller -> C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\robot_controller\\share\\ament_index\\resource_index\\packages\r\n'}
+[6.797000] (robot_controller) StdoutLine: {'line': b'copying package.xml -> C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\robot_controller\\share\\robot_controller\r\n'}
+[6.797000] (robot_controller) StdoutLine: {'line': b'running install_egg_info\r\n'}
+[6.813000] (-) TimerEvent: {}
+[6.875000] (robot_controller) StdoutLine: {'line': b"removing 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\robot_controller\\Lib\\site-packages\\robot_controller-0.0.0-py3.12.egg-info' (and everything under it)\r\n"}
+[6.875000] (robot_controller) StdoutLine: {'line': b'Copying ..\\..\\build\\robot_controller\\robot_controller.egg-info to C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\robot_controller\\Lib\\site-packages\\robot_controller-0.0.0-py3.12.egg-info\r\n'}
+[6.922000] (-) TimerEvent: {}
+[6.938000] (robot_controller) StdoutLine: {'line': b'running install_scripts\r\n'}
+[7.032000] (-) TimerEvent: {}
+[7.141000] (-) TimerEvent: {}
+[7.250000] (-) TimerEvent: {}
+[7.360000] (robot_controller) StdoutLine: {'line': b'Installing circle_publisher-script.py script to C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\robot_controller\\lib\\robot_controller\r\n'}
+[7.360000] (-) TimerEvent: {}
+[7.422000] (robot_controller) StdoutLine: {'line': b'Installing circle_publisher.exe script to C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\robot_controller\\lib\\robot_controller\r\n'}
+[7.422000] (robot_controller) StdoutLine: {'line': b'Installing hello_node-script.py script to C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\robot_controller\\lib\\robot_controller\r\n'}
+[7.422000] (robot_controller) StdoutLine: {'line': b'Installing hello_node.exe script to C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\robot_controller\\lib\\robot_controller\r\n'}
+[7.422000] (robot_controller) StdoutLine: {'line': b'Installing initial_spawn-script.py script to C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\robot_controller\\lib\\robot_controller\r\n'}
+[7.422000] (robot_controller) StdoutLine: {'line': b'Installing initial_spawn.exe script to C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\robot_controller\\lib\\robot_controller\r\n'}
+[7.422000] (robot_controller) StdoutLine: {'line': b'Installing pose_subscriber-script.py script to C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\robot_controller\\lib\\robot_controller\r\n'}
+[7.422000] (robot_controller) StdoutLine: {'line': b'Installing pose_subscriber.exe script to C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\robot_controller\\lib\\robot_controller\r\n'}
+[7.438000] (robot_controller) StdoutLine: {'line': b'Installing random_movement-script.py script to C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\robot_controller\\lib\\robot_controller\r\n'}
+[7.438000] (robot_controller) StdoutLine: {'line': b'Installing random_movement.exe script to C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\robot_controller\\lib\\robot_controller\r\n'}
+[7.438000] (robot_controller) StdoutLine: {'line': b'Installing stopper-script.py script to C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\robot_controller\\lib\\robot_controller\r\n'}
+[7.438000] (robot_controller) StdoutLine: {'line': b'Installing stopper.exe script to C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\install\\robot_controller\\lib\\robot_controller\r\n'}
+[7.438000] (robot_controller) StdoutLine: {'line': b"writing list of installed files to 'C:\\Users\\willi\\ros_projects\\ros2_first_project\\utm\\build\\robot_controller\\install.log'\r\n"}
+[7.469000] (-) TimerEvent: {}
+[7.500000] (robot_controller) CommandEnded: {'returncode': 0}
+[7.578000] (-) TimerEvent: {}
+[7.610000] (robot_controller) JobEnded: {'identifier': 'robot_controller', 'rc': 0}
+[7.610000] (-) EventReactorShutdown: {}

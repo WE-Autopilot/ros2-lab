@@ -1,0 +1,45 @@
+[5.391s] Invoking command in 'C:\Users\willi\ros_projects\ros2_first_project\utm\src\robot_controller': IGCCSVC_DB=%IGCCSVC_DB%
+IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.1\bin; PIXI_PROMPT=(ros2_first_project) PYTHONPATH=C:\Users\willi\ros_projects\ros2_first_project\utm\build\robot_controller\prefix_override;C:\Users\willi\ros_projects\ros2_first_project\.pixi\envs\default\Lib\site-packages\colcon_core\task\python\colcon_distutils_commands;C:\Users\willi\ros_projects\ros2_first_project\utm\install\robot_controller\Lib\site-packages;%PYTHONPATH% C:\Users\willi\ros_projects\ros2_first_project\.pixi\envs\default\python.exe -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ..\..\build\robot_controller build --build-base C:\Users\willi\ros_projects\ros2_first_project\utm\build\robot_controller\build install --record C:\Users\willi\ros_projects\ros2_first_project\utm\build\robot_controller\install.log --single-version-externally-managed install_data
+[5.969s] C:\Users\willi\ros_projects\ros2_first_project\.pixi\envs\default\Lib\site-packages\setuptools\_distutils\dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[5.969s]   warnings.warn(msg)
+[6.344s] running egg_info
+[6.391s] writing ..\..\build\robot_controller\robot_controller.egg-info\PKG-INFO
+[6.422s] writing dependency_links to ..\..\build\robot_controller\robot_controller.egg-info\dependency_links.txt
+[6.422s] writing entry points to ..\..\build\robot_controller\robot_controller.egg-info\entry_points.txt
+[6.422s] writing requirements to ..\..\build\robot_controller\robot_controller.egg-info\requires.txt
+[6.422s] writing top-level names to ..\..\build\robot_controller\robot_controller.egg-info\top_level.txt
+[6.563s] reading manifest file '..\..\build\robot_controller\robot_controller.egg-info\SOURCES.txt'
+[6.594s] writing manifest file '..\..\build\robot_controller\robot_controller.egg-info\SOURCES.txt'
+[6.594s] running build
+[6.594s] running build_py
+[6.594s] copying robot_controller\circle_publisher.py -> C:\Users\willi\ros_projects\ros2_first_project\utm\build\robot_controller\build\lib\robot_controller
+[6.625s] copying robot_controller\hello_node.py -> C:\Users\willi\ros_projects\ros2_first_project\utm\build\robot_controller\build\lib\robot_controller
+[6.641s] copying robot_controller\initializeSpawn.py -> C:\Users\willi\ros_projects\ros2_first_project\utm\build\robot_controller\build\lib\robot_controller
+[6.657s] copying robot_controller\pose_subscriber.py -> C:\Users\willi\ros_projects\ros2_first_project\utm\build\robot_controller\build\lib\robot_controller
+[6.672s] copying robot_controller\randomMovement.py -> C:\Users\willi\ros_projects\ros2_first_project\utm\build\robot_controller\build\lib\robot_controller
+[6.703s] copying robot_controller\stopper.py -> C:\Users\willi\ros_projects\ros2_first_project\utm\build\robot_controller\build\lib\robot_controller
+[6.703s] copying robot_controller\__init__.py -> C:\Users\willi\ros_projects\ros2_first_project\utm\build\robot_controller\build\lib\robot_controller
+[6.703s] running install
+[6.719s] running install_lib
+[6.797s] running install_data
+[6.797s] copying resource\robot_controller -> C:\Users\willi\ros_projects\ros2_first_project\utm\install\robot_controller\share\ament_index\resource_index\packages
+[6.797s] copying package.xml -> C:\Users\willi\ros_projects\ros2_first_project\utm\install\robot_controller\share\robot_controller
+[6.797s] running install_egg_info
+[6.875s] removing 'C:\Users\willi\ros_projects\ros2_first_project\utm\install\robot_controller\Lib\site-packages\robot_controller-0.0.0-py3.12.egg-info' (and everything under it)
+[6.875s] Copying ..\..\build\robot_controller\robot_controller.egg-info to C:\Users\willi\ros_projects\ros2_first_project\utm\install\robot_controller\Lib\site-packages\robot_controller-0.0.0-py3.12.egg-info
+[6.938s] running install_scripts
+[7.360s] Installing circle_publisher-script.py script to C:\Users\willi\ros_projects\ros2_first_project\utm\install\robot_controller\lib\robot_controller
+[7.422s] Installing circle_publisher.exe script to C:\Users\willi\ros_projects\ros2_first_project\utm\install\robot_controller\lib\robot_controller
+[7.422s] Installing hello_node-script.py script to C:\Users\willi\ros_projects\ros2_first_project\utm\install\robot_controller\lib\robot_controller
+[7.422s] Installing hello_node.exe script to C:\Users\willi\ros_projects\ros2_first_project\utm\install\robot_controller\lib\robot_controller
+[7.422s] Installing initial_spawn-script.py script to C:\Users\willi\ros_projects\ros2_first_project\utm\install\robot_controller\lib\robot_controller
+[7.422s] Installing initial_spawn.exe script to C:\Users\willi\ros_projects\ros2_first_project\utm\install\robot_controller\lib\robot_controller
+[7.422s] Installing pose_subscriber-script.py script to C:\Users\willi\ros_projects\ros2_first_project\utm\install\robot_controller\lib\robot_controller
+[7.422s] Installing pose_subscriber.exe script to C:\Users\willi\ros_projects\ros2_first_project\utm\install\robot_controller\lib\robot_controller
+[7.438s] Installing random_movement-script.py script to C:\Users\willi\ros_projects\ros2_first_project\utm\install\robot_controller\lib\robot_controller
+[7.438s] Installing random_movement.exe script to C:\Users\willi\ros_projects\ros2_first_project\utm\install\robot_controller\lib\robot_controller
+[7.438s] Installing stopper-script.py script to C:\Users\willi\ros_projects\ros2_first_project\utm\install\robot_controller\lib\robot_controller
+[7.438s] Installing stopper.exe script to C:\Users\willi\ros_projects\ros2_first_project\utm\install\robot_controller\lib\robot_controller
+[7.438s] writing list of installed files to 'C:\Users\willi\ros_projects\ros2_first_project\utm\build\robot_controller\install.log'
+[7.500s] Invoked command in 'C:\Users\willi\ros_projects\ros2_first_project\utm\src\robot_controller' returned '0': IGCCSVC_DB=%IGCCSVC_DB%
+IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.1\bin; PIXI_PROMPT=(ros2_first_project) PYTHONPATH=C:\Users\willi\ros_projects\ros2_first_project\utm\build\robot_controller\prefix_override;C:\Users\willi\ros_projects\ros2_first_project\.pixi\envs\default\Lib\site-packages\colcon_core\task\python\colcon_distutils_commands;C:\Users\willi\ros_projects\ros2_first_project\utm\install\robot_controller\Lib\site-packages;%PYTHONPATH% C:\Users\willi\ros_projects\ros2_first_project\.pixi\envs\default\python.exe -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ..\..\build\robot_controller build --build-base C:\Users\willi\ros_projects\ros2_first_project\utm\build\robot_controller\build install --record C:\Users\willi\ros_projects\ros2_first_project\utm\build\robot_controller\install.log --single-version-externally-managed install_data
