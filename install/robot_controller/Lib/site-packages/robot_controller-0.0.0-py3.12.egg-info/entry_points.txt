@@ -1,0 +1,2 @@
+[console_scripts]
+hello_node = robot_controller.hello_node:main

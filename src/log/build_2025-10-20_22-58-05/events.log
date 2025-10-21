@@ -1,0 +1,36 @@
+[0.000000] (-) TimerEvent: {}
+[0.000000] (robot_controller) JobQueued: {'identifier': 'robot_controller', 'dependencies': OrderedDict()}
+[0.000000] (robot_controller) JobStarted: {'identifier': 'robot_controller'}
+[0.109000] (-) TimerEvent: {}
+[0.218000] (-) TimerEvent: {}
+[0.328000] (-) TimerEvent: {}
+[0.437000] (-) TimerEvent: {}
+[0.546000] (-) TimerEvent: {}
+[0.671000] (-) TimerEvent: {}
+[0.781000] (-) TimerEvent: {}
+[0.890000] (-) TimerEvent: {}
+[1.000000] (-) TimerEvent: {}
+[1.109000] (-) TimerEvent: {}
+[1.234000] (-) TimerEvent: {}
+[1.343000] (-) TimerEvent: {}
+[1.453000] (-) TimerEvent: {}
+[1.562000] (-) TimerEvent: {}
+[1.671000] (-) TimerEvent: {}
+[1.781000] (-) TimerEvent: {}
+[1.890000] (-) TimerEvent: {}
+[2.000000] (-) TimerEvent: {}
+[2.109000] (-) TimerEvent: {}
+[2.234000] (-) TimerEvent: {}
+[2.343000] (-) TimerEvent: {}
+[2.453000] (-) TimerEvent: {}
+[2.562000] (-) TimerEvent: {}
+[2.671000] (-) TimerEvent: {}
+[2.781000] (-) TimerEvent: {}
+[2.890000] (-) TimerEvent: {}
+[3.000000] (-) TimerEvent: {}
+[3.109000] (-) TimerEvent: {}
+[3.218000] (-) TimerEvent: {}
+[3.328000] (-) TimerEvent: {}
+[3.359000] (robot_controller) StderrLine: {'line': b'Traceback (most recent call last):\n  File "C:\\Users\\Mathew\\Documents\\Code\\WEAP\\pixi_environments\\ros2_weap\\.pixi\\envs\\default\\Lib\\site-packages\\colcon_core\\executor\\__init__.py", line 91, in __call__\n    rc = await self.task(*args, **kwargs)\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "C:\\Users\\Mathew\\Documents\\Code\\WEAP\\pixi_environments\\ros2_weap\\.pixi\\envs\\default\\Lib\\site-packages\\colcon_core\\task\\__init__.py", line 93, in __call__\n    return await task_method(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "C:\\Users\\Mathew\\Documents\\Code\\WEAP\\pixi_environments\\ros2_weap\\.pixi\\envs\\default\\Lib\\site-packages\\colcon_ros\\task\\ament_python\\build.py", line 102, in build\n    return await extension.build(additional_hooks=additional_hooks)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "C:\\Users\\Mathew\\Documents\\Code\\WEAP\\pixi_environments\\ros2_weap\\.pixi\\envs\\default\\Lib\\site-packages\\colcon_core\\task\\python\\build.py", line 145, in build\n    temp_symlinks = self._symlinks_in_build(args, setup_py_data)\n                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "C:\\Users\\Mathew\\Documents\\Code\\WEAP\\pixi_environments\\ros2_weap\\.pixi\\envs\\default\\Lib\\site-packages\\colcon_core\\task\\python\\build.py", line 360, in _symlinks_in_build\n    os.symlink(src, dst)\nOSError: [WinError 1314] A required privilege is not held by the client: \'C:\\\\Users\\\\Mathew\\\\Documents\\\\Code\\\\WEAP\\\\pixi_environments\\\\ros2_weap\\\\ros2-lab\\\\src\\\\robot_controller\\\\setup.py\' -> \'C:\\\\Users\\\\Mathew\\\\Documents\\\\Code\\\\WEAP\\\\pixi_environments\\\\ros2_weap\\\\ros2-lab\\\\src\\\\build\\\\robot_controller\\\\setup.py\'\n'}
+[3.359000] (robot_controller) JobEnded: {'identifier': 'robot_controller', 'rc': 1}
+[3.375000] (-) EventReactorShutdown: {}

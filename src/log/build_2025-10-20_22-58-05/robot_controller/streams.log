@@ -1,0 +1,16 @@
+[3.359s] Traceback (most recent call last):
+  File "C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\.pixi\envs\default\Lib\site-packages\colcon_core\executor\__init__.py", line 91, in __call__
+    rc = await self.task(*args, **kwargs)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\.pixi\envs\default\Lib\site-packages\colcon_core\task\__init__.py", line 93, in __call__
+    return await task_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\.pixi\envs\default\Lib\site-packages\colcon_ros\task\ament_python\build.py", line 102, in build
+    return await extension.build(additional_hooks=additional_hooks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\.pixi\envs\default\Lib\site-packages\colcon_core\task\python\build.py", line 145, in build
+    temp_symlinks = self._symlinks_in_build(args, setup_py_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\.pixi\envs\default\Lib\site-packages\colcon_core\task\python\build.py", line 360, in _symlinks_in_build
+    os.symlink(src, dst)
+OSError: [WinError 1314] A required privilege is not held by the client: 'C:\\Users\\Mathew\\Documents\\Code\\WEAP\\pixi_environments\\ros2_weap\\ros2-lab\\src\\robot_controller\\setup.py' -> 'C:\\Users\\Mathew\\Documents\\Code\\WEAP\\pixi_environments\\ros2_weap\\ros2-lab\\src\\build\\robot_controller\\setup.py'

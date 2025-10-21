@@ -1,0 +1,36 @@
+[3.156s] Invoking command in 'C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\src\robot_controller': CONDA_ENV_SHLVL_2_PIXI_PROMPT=(ros2_weap) PIXI_PROMPT=(ros2_weap) PYTHONPATH=C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\build\robot_controller\prefix_override;C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\.pixi\envs\default\Lib\site-packages\colcon_core\task\python\colcon_distutils_commands;C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\install\robot_controller\Lib\site-packages;%PYTHONPATH% C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\.pixi\envs\default\python.exe -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ..\..\build\robot_controller build --build-base C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\build\robot_controller\build install --record C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\build\robot_controller\install.log --single-version-externally-managed install_data
+[3.672s] C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\.pixi\envs\default\Lib\site-packages\setuptools\_distutils\dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[3.672s]   warnings.warn(msg)
+[4.125s] running egg_info
+[4.203s] creating ..\..\build\robot_controller\robot_controller.egg-info
+[4.203s] writing ..\..\build\robot_controller\robot_controller.egg-info\PKG-INFO
+[4.203s] writing dependency_links to ..\..\build\robot_controller\robot_controller.egg-info\dependency_links.txt
+[4.203s] writing entry points to ..\..\build\robot_controller\robot_controller.egg-info\entry_points.txt
+[4.203s] writing requirements to ..\..\build\robot_controller\robot_controller.egg-info\requires.txt
+[4.203s] writing top-level names to ..\..\build\robot_controller\robot_controller.egg-info\top_level.txt
+[4.203s] writing manifest file '..\..\build\robot_controller\robot_controller.egg-info\SOURCES.txt'
+[4.359s] reading manifest file '..\..\build\robot_controller\robot_controller.egg-info\SOURCES.txt'
+[4.359s] writing manifest file '..\..\build\robot_controller\robot_controller.egg-info\SOURCES.txt'
+[4.359s] running build
+[4.359s] running build_py
+[4.359s] creating C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\build\robot_controller\build\lib\robot_controller
+[4.359s] copying robot_controller\hello_node.py -> C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\build\robot_controller\build\lib\robot_controller
+[4.359s] copying robot_controller\__init__.py -> C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\build\robot_controller\build\lib\robot_controller
+[4.359s] running install
+[4.375s] running install_lib
+[4.438s] creating C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\install\robot_controller\Lib\site-packages\robot_controller
+[4.438s] copying C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\build\robot_controller\build\lib\robot_controller\hello_node.py -> C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\install\robot_controller\Lib\site-packages\robot_controller
+[4.438s] copying C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\build\robot_controller\build\lib\robot_controller\__init__.py -> C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\install\robot_controller\Lib\site-packages\robot_controller
+[4.438s] byte-compiling C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\install\robot_controller\Lib\site-packages\robot_controller\hello_node.py to hello_node.cpython-312.pyc
+[4.453s] byte-compiling C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\install\robot_controller\Lib\site-packages\robot_controller\__init__.py to __init__.cpython-312.pyc
+[4.453s] running install_data
+[4.453s] creating C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\install\robot_controller\share\ament_index\resource_index\packages
+[4.453s] copying resource\robot_controller -> C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\install\robot_controller\share\ament_index\resource_index\packages
+[4.453s] copying package.xml -> C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\install\robot_controller\share\robot_controller
+[4.453s] running install_egg_info
+[4.531s] Copying ..\..\build\robot_controller\robot_controller.egg-info to C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\install\robot_controller\Lib\site-packages\robot_controller-0.0.0-py3.12.egg-info
+[4.547s] running install_scripts
+[4.984s] Installing hello_node-script.py script to C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\install\robot_controller\lib\robot_controller
+[4.984s] Installing hello_node.exe script to C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\install\robot_controller\lib\robot_controller
+[4.984s] writing list of installed files to 'C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\build\robot_controller\install.log'
+[5.031s] Invoked command in 'C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\src\robot_controller' returned '0': CONDA_ENV_SHLVL_2_PIXI_PROMPT=(ros2_weap) PIXI_PROMPT=(ros2_weap) PYTHONPATH=C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\build\robot_controller\prefix_override;C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\.pixi\envs\default\Lib\site-packages\colcon_core\task\python\colcon_distutils_commands;C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\install\robot_controller\Lib\site-packages;%PYTHONPATH% C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\.pixi\envs\default\python.exe -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ..\..\build\robot_controller build --build-base C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\build\robot_controller\build install --record C:\Users\Mathew\Documents\Code\WEAP\pixi_environments\ros2_weap\ros2-lab\build\robot_controller\install.log --single-version-externally-managed install_data
