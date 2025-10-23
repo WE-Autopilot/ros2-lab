@@ -1,0 +1,5 @@
+[console_scripts]
+circle_publisher = robot_controller.circle_publisher:main
+follow_center = robot_controller.follow_center:main
+hello_node = robot_controller.hello_node:main
+pose_subscriber = robot_controller.pose_subscriber:main

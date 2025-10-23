@@ -1,0 +1,20 @@
+[0.481s] Invoking command in '/home/kkanjo/utm/src/robot_controller/build/robot_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kkanjo/utm/src/robot_controller/build/robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kkanjo/utm/src/robot_controller/install/robot_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kkanjo/utm/src/robot_controller/build/robot_controller/build --no-deps symlink_data --force
+[0.666s] running develop
+[0.730s] running egg_info
+[0.735s] writing robot_controller.egg-info/PKG-INFO
+[0.735s] writing dependency_links to robot_controller.egg-info/dependency_links.txt
+[0.736s] writing entry points to robot_controller.egg-info/entry_points.txt
+[0.736s] writing requirements to robot_controller.egg-info/requires.txt
+[0.736s] writing top-level names to robot_controller.egg-info/top_level.txt
+[0.750s] reading manifest file 'robot_controller.egg-info/SOURCES.txt'
+[0.750s] writing manifest file 'robot_controller.egg-info/SOURCES.txt'
+[0.762s] running build_ext
+[0.762s] Creating /home/kkanjo/utm/src/robot_controller/install/robot_controller/lib/python3.12/site-packages/robot-controller.egg-link (link to .)
+[0.762s] Installing circle_publisher script to /home/kkanjo/utm/src/robot_controller/install/robot_controller/lib/robot_controller
+[0.762s] Installing hello_node script to /home/kkanjo/utm/src/robot_controller/install/robot_controller/lib/robot_controller
+[0.762s] 
+[0.762s] Installed /home/kkanjo/utm/src/robot_controller/build/robot_controller
+[0.762s] running symlink_data
+[0.762s] symbolically linking /home/kkanjo/utm/src/robot_controller/build/robot_controller/resource/robot_controller -> /home/kkanjo/utm/src/robot_controller/install/robot_controller/share/ament_index/resource_index/packages
+[0.763s] symbolically linking /home/kkanjo/utm/src/robot_controller/build/robot_controller/package.xml -> /home/kkanjo/utm/src/robot_controller/install/robot_controller/share/robot_controller
+[0.778s] Invoked command in '/home/kkanjo/utm/src/robot_controller/build/robot_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kkanjo/utm/src/robot_controller/build/robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kkanjo/utm/src/robot_controller/install/robot_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kkanjo/utm/src/robot_controller/build/robot_controller/build --no-deps symlink_data --force
