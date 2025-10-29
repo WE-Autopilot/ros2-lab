@@ -1,3 +1,0 @@
-[console_scripts]
-temp_converter = robot_controller.temp_converter:main
-temp_publisher = robot_controller.temp_publisher:main
